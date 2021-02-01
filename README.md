@@ -2,7 +2,7 @@
 
 - I'm a software engineer who likes tackling complex, hard problems and owning products from end to end. Feel free to explore some of my repositories and let me know what you think! 
 
-### Current Technologies I'm Exploring
+### Technologies I'm Currently Exploring
 - Flask
 - React
 - DynamoDB
@@ -10,7 +10,7 @@
 - Docker
 
 
-### Languages and Technologies that I'm Looking Forward to Learning
+### Languages and Technologies I'm Looking Forward to Learning
 - Go
 - NextJS
 - Redis
