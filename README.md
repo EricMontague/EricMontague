@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-- I'm a software engineer who likes tackling complex, hard problems and owning products from end to end. Feel free to explore some of my repositories nad let me know what you think! 
+- I'm a software engineer who likes tackling complex, hard problems and owning products from end to end. Feel free to explore some of my repositories and let me know what you think! 
 - 🔭  Technologies that I'm currently exploring include Flask, React, DynamoDB, and Elasticsearch
 - 🌱  Languages and technologies that I'm looking forward to learning include Go, NextJS and Redis
 
