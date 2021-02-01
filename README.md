@@ -1,8 +1,19 @@
 ### Hi there :wave:
 
 - I'm a software engineer who likes tackling complex, hard problems and owning products from end to end. Feel free to explore some of my repositories and let me know what you think! 
-- 🔭  Technologies that I'm currently exploring include Flask, React, DynamoDB, and Elasticsearch
-- 🌱  Languages and technologies that I'm looking forward to learning include Go, NextJS and Redis
+
+### Current Technologies I'm Exploring
+- Flask
+- React
+- DynamoDB
+- Elasticsearch
+- Docker
+
+
+### Languages and Technologies that I'm Looking Forward to Learning
+- Go
+- NextJS
+- Redis
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricMontague&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricMontague&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
